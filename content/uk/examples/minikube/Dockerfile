@@ -1,4 +1,4 @@
-FROM node:24.0.1
+FROM node:24.13.0
 EXPOSE 8080
 COPY server.js .
 CMD [ "node", "server.js" ]
