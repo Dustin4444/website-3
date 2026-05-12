@@ -1,7 +1,6 @@
 ---
 layout: blog
 title: "Kubernetes v1.36: Mixed Version Proxy Graduates to Beta "
-draft: true
 date: 2026-05-11T10:35:00-08:00
 slug: kubernetes-1-36-feature-mixed-version-proxy-beta
 author: >
