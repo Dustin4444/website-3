@@ -35,7 +35,7 @@ cards:
   button_path: "/docs/setup"
 - name: tasks
   title: "Освойте работу с Kubernetes"
-  description: "Найдите типовые задачи и выполните их по коротким пошаговым инструкциям."
+  description: "Ознакомьтесь с типовыми задачами и способами их решения в виде кратких пошаговых инструкций."
   button: "Перейти к задачам"
   button_path: "/docs/tasks"
 - name: reference
