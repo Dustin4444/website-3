@@ -50,7 +50,7 @@ cards:
   button_path: /docs/contribute
 - name: training
   title: "Обучение"
-  description: "Пройдите обучение и сертификацию по Kubernetes, чтобы успешнее вести cloud native проекты."
+  description: "Пройдите обучение и сертификацию по Kubernetes, чтобы успешнее вести cloud native-проекты."
   button: "Перейти к обучению"
   button_path: "/training"
 - name: Download
